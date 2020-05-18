@@ -1,4 +1,5 @@
 ## React-Movie-Database
+This project was bootstrapped with Create React App(https://github.com/facebook/create-react-app).
 
 ## Screenshots
 <img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />
